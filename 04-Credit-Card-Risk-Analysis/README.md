@@ -12,6 +12,22 @@ bank do to retain them?
 
 ---
 
+## 📊 Dashboard Preview
+
+### Dashboard 1 — Spending & Utilization
+![Dashboard 1](Dashboard_1_screenshot.png)
+
+### Dashboard 2 — Risk & Default Analysis
+![Dashboard 2](Dashboard_2_screenshot.png)
+
+### Introduction Sheet
+![Introduction](Intro_screenshot.png)
+
+### Insights Sheet
+![Insights](Insights_screenshot.png)
+
+---
+
 ## Key Findings
 
 | # | Finding | Number |
