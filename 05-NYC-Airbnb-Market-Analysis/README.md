@@ -1,4 +1,4 @@
-# 🏙️ NYC Airbnb Market Analysis — Pricing & Investment Dashboard
+# 🏙️ NYC Airbnb Market Analysis: Pricing & Investment Dashboard
 
 An interactive **Excel dashboard** analysing **48,645 New York City Airbnb listings** to answer a real business question: *which borough offers the best investment return, and how should a host price to stay competitive?*
 
