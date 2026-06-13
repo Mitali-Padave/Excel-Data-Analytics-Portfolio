@@ -12,7 +12,7 @@ bank do to retain them?
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 ### Dashboard 1: Spending & Utilization
 ![Dashboard 1](Dashboard_1_screenshot.png)
