@@ -84,7 +84,9 @@ An investor wants to enter NYC's short-term rental market but doesn't know where
 ## Dashboard Preview
 
 ![Introduction](intro.png)
+
 ![Dashboard](dashboard.png)
+
 ![Insights](insights.png)
 
 ---
