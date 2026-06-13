@@ -1,13 +1,13 @@
 # 🛒 BlinkIT Grocery Sales Dashboard
 
-## 📋 Project Overview
+## Project Overview
 
 Comprehensive Power BI-style dashboard analyzing **BlinkIT** grocery delivery sales across outlet types, locations, product categories, and customer ratings.
 
 **📊 Built with Microsoft Excel** | Interactive Dashboard | Data Analysis | Business Intelligence
 <br>
 
-## 🎯 Business Problem
+## Business Problem
 
 BlinkIT (India's last-minute delivery app) needed insights into:
 
@@ -18,7 +18,7 @@ BlinkIT (India's last-minute delivery app) needed insights into:
 
 <br>
 
-## 📊 Dataset Information
+## Dataset Information
 
 - **Source**: Kaggle - BlinkIT Grocery Sales Dataset
 - **Total Sales**: $1.20M across 8,523 items
@@ -28,7 +28,7 @@ BlinkIT (India's last-minute delivery app) needed insights into:
 
 <br>
 
-## 📈 Key Performance Indicators
+## Key Performance Indicators
 
 | Metric | Value |
 |--------|-------|
@@ -90,7 +90,7 @@ BlinkIT (India's last-minute delivery app) needed insights into:
 
 - **Tier 3**: $306.8K (Low Fat) vs $254.5K (Regular) — Strong low-fat preference
 - **Tier 2**: Similar distribution pattern
-- **Tier 1**: $215.0K low fat dominance
+- **Tier 1**: $215.0K low-fat dominance
 - All tiers show consistent preference for low-fat products
 
 ### 7. Outlet Type Performance
@@ -142,9 +142,9 @@ BlinkIT (India's last-minute delivery app) needed insights into:
 
 <br>
 
-## 📊 Dashboard Features
+## Dashboard Features
 
-✅ **KPI Cards** — Total Sales, Avg Sales, Items, Rating at-a-glance
+✅ **KPI Cards** — Total Sales, Avg Sales, Items, Rating at a glance
 
 ✅ **Interactive Filters** — Outlet Size, Location (Tier), Item Type
 
@@ -160,7 +160,7 @@ BlinkIT (India's last-minute delivery app) needed insights into:
 
 <br>
 
-## 🛠️ Skills Demonstrated
+## Skills Demonstrated
 
 ### Data Analysis:
 - Multi-dimensional sales analysis (time, geography, product, outlet)
@@ -183,7 +183,7 @@ BlinkIT (India's last-minute delivery app) needed insights into:
 
 <br>
 
-## 🔑 Key Learnings
+## Key Learnings
 
 - Tier 3 cities present significant **untapped market opportunities** in India's grocery delivery sector
 - **Small/medium format stores** are more efficient than large formats for quick commerce
@@ -192,12 +192,8 @@ BlinkIT (India's last-minute delivery app) needed insights into:
 
 <br>
 
-## 👤 Author
+## Author
 
 Mitali Padave
 
-[LinkedIn] https://www.linkedin.com/in/mitali-padave-581a2a242/ | [GitHub] https://github.com/Mit-06
-
-<br>
-
----
+[LinkedIn] https://www.linkedin.com/in/mitali-padave-581a2a242/
