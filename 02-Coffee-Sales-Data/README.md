@@ -1,12 +1,12 @@
 # ☕ Coffee Sales Dashboard
 
-## 📋 Project Overview
+## Project Overview
 
 Interactive Excel dashboard analyzing coffee sales performance across countries, product types, and customer segments from **2019 to 2022**.
 
 <br>
 
-## 🎯 Business Problem
+## Business Problem
 
 A coffee retail business needed visibility into:
 
@@ -17,7 +17,7 @@ A coffee retail business needed visibility into:
 
 <br>
 
-## 📊 Dataset Information
+## Dataset Information
 
 - **Source**: Kaggle - Coffee Sales Dataset
 - **Period**: January 2019 – August 2022
@@ -29,7 +29,7 @@ A coffee retail business needed visibility into:
 
 <br>
 
-## 📈 Analysis Process
+## Analysis Process
 
 ### 1. Data Cleaning & Preparation
 
@@ -111,7 +111,7 @@ A coffee retail business needed visibility into:
 
 <br>
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 ✅ **Timeline Slicer** — Filter by any custom date range (2019–2022)
 
@@ -129,7 +129,7 @@ A coffee retail business needed visibility into:
 
 <br>
 
-## 🛠️ Skills Demonstrated
+## Skills Demonstrated
 
 - XLOOKUP and INDEX-MATCH for multi-sheet data merging
 - PivotTables and PivotCharts for dynamic analysis
@@ -141,7 +141,7 @@ A coffee retail business needed visibility into:
 
 <br>
 
-## 🚀 How to Use
+## How to Use
 
 1. Download the Excel dashboard file
 2. Enable macros/content if prompted
@@ -154,12 +154,8 @@ A coffee retail business needed visibility into:
 
 <br>
 
-## 👤 Author
+## Author
 
 **Mitali Padave**
 
-[LinkedIn] https://www.linkedin.com/in/mitali-padave-581a2a242/ | [GitHub] https://github.com/Mit-06
-
-<br>
-
----
+[LinkedIn] https://www.linkedin.com/in/mitali-padave-581a2a242/
