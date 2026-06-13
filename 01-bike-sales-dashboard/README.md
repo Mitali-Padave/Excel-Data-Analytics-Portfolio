@@ -1,12 +1,12 @@
-# 🚴 Bike Sales Dashboard
+# Bike Sales Dashboard
 
-## 📋 Project Overview
+## Project Overview
 
 Interactive Excel dashboard analyzing bike purchase patterns across customer demographics to identify high-value customer segments and optimize marketing strategies for a bicycle retail company.
 
 <br>
 
-## 🎯 Business Problem
+## Business Problem
 
 A bicycle retail company needed data-driven insights to answer:
 
@@ -17,7 +17,7 @@ A bicycle retail company needed data-driven insights to answer:
 
 <br>
 
-## 📊 Dataset Information
+## Dataset Information
 
 - **Source**: Kaggle - Bike Sales Dataset
 - **Total Records**: 1,000 customer records
@@ -30,7 +30,7 @@ A bicycle retail company needed data-driven insights to answer:
 
 <br>
 
-## 🔧 Tools & Technologies
+## Tools & Technologies
 
 - **Microsoft Excel** - Data cleaning, analysis, and visualization
 - **PivotTables** - Multi-dimensional data analysis
@@ -39,7 +39,7 @@ A bicycle retail company needed data-driven insights to answer:
 
 <br>
 
-## 📈 Analysis Process
+## Analysis Process
 
 ### 1. Data Cleaning & Preparation
 
@@ -133,7 +133,7 @@ Through slicer analysis:
 
 <br>
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 ✅ **Interactive Filtering** - 4 slicers for dynamic data exploration
 
@@ -147,7 +147,7 @@ Through slicer analysis:
 
 <br>
 
-## 🚀 How to Use
+## How to Use
 
 1. Download the Excel dashboard file
 2. Enable macros/content if prompted
@@ -160,11 +160,11 @@ Through slicer analysis:
 
 <br>
 
-## 📫 Contact
+## Contact
 
 **Author**: Mitali Padave
 
-[LinkedIn] https://www.linkedin.com/in/mitali-padave-581a2a242/  | [GitHub] https://github.com/Mit-06
+[LinkedIn] https://www.linkedin.com/in/mitali-padave-581a2a242/ 
 
 ---
 
